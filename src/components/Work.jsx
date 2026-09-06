@@ -64,7 +64,7 @@ const works = [
   },
   {
     id: "iTyping",
-    href: "https://inotebook-by-intiyaj.vercel.app/",
+    href: "https://ityping-webapp.vercel.app/",
     github: "",
     image: iTyping,
     name: "iTyping",
