@@ -1,6 +1,6 @@
 import shopBag from "../assets/images/projects/shopBag.webp";
 import nestivo from "../assets/images/projects/nestivo.webp";
-import iNotebook from "../assets/images/projects/iNotebook.webp";
+import iNotebook from "../assets/images/projects/inotebook.webp";
 import weather from "../assets/images/projects/weather.webp";
 import iTyping from "../assets/images/projects/iTyping.webp";
 
