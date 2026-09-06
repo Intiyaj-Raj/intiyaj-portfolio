@@ -19,13 +19,13 @@ A high-performance, cinematic developer portfolio web application built with **R
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies Used |
-| :--- | :--- |
-| **Core Frontend** | React 19, JavaScript (ES6+), HTML5 |
-| **Styling & Design** | Tailwind CSS v4, Modern CSS Glassmorphism |
+| Category                | Technologies Used                                      |
+| :---------------------- | :----------------------------------------------------- |
+| **Core Frontend**       | React 19, JavaScript (ES6+), HTML5                     |
+| **Styling & Design**    | Tailwind CSS v4, Modern CSS Glassmorphism              |
 | **Animation & Physics** | GSAP 3 (GreenSock), ScrollTrigger, Lenis Smooth Scroll |
-| **Form Services** | EmailJS Browser Integration |
-| **Build & Tooling** | Vite, PostCSS, ESLint, Node.js |
+| **Form Services**       | EmailJS Browser Integration                            |
+| **Build & Tooling**     | Vite, PostCSS, ESLint, Node.js                         |
 
 ---
 
@@ -62,26 +62,31 @@ portfolio/
 ### Prerequisites
 
 Ensure you have the following installed on your environment:
+
 - **Node.js**: `v18.0.0` or higher
 - **npm**: `v9.0.0` or higher
 
 ### Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone <repository-url>
    cd portfolio
    ```
 
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**:
+
    ```bash
    npm run dev
    ```
+
    Open `http://localhost:5174` in your browser to view the application locally.
 
 4. **Expose to local network (Mobile Testing)**:
@@ -101,6 +106,7 @@ Ensure you have the following installed on your environment:
 This software and all associated source code, design layouts, graphics, branding assets, scripts, and media files are strictly **PROPRIETARY**.
 
 ### Terms of Use:
+
 - ❌ **No Unauthorized Copying**: You may **NOT** copy, clone, reproduce, or mirror any portion of this repository or its source code.
 - ❌ **No Commercial or Non-Commercial Distribution**: You may **NOT** distribute, sell, sublicense, host, publish, or commercially exploit this codebase or design.
 - ❌ **No Derivative Works**: Modification, adaptation, or creation of derivative works based on this project is strictly prohibited.
